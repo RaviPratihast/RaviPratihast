@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ravi Shankar Pratihast</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5500&center=true&width=1200&lines=Frontend+Developer+from+India)](https://git.io/typing-svg)
+
 
 
 ## 🌐 Socials:
